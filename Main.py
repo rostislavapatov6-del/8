@@ -6,6 +6,5 @@ def login(username, password):
         print("Невірне ім'я користувача або пароль")
 
 
-# Перевірка
 login("admin", "12345")
 login("user", "123")
